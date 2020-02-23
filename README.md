@@ -30,7 +30,7 @@
 <br>
 
 <p align="center">
-  <img alt="appScreens" src=".github/aircnc.png" width="100%">
+  <img alt="appScreens" src=".github/appScreens.png" width="100%">
 </p>
 
 ## :rocket: Tecnologias
